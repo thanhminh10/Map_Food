@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "947854224415",
+    "firebase_url": "https://mapfood-884b0-default-rtdb.firebaseio.com",
+    "project_id": "mapfood-884b0",
+    "storage_bucket": "mapfood-884b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947854224415:android:4bbcb7dd4cad2c2a72b92a",
+        "android_client_info": {
+          "package_name": "com.Map_Food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947854224415-p7gc56bfmc39ehah3pp8joe6nrmcci3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVb-QW-Hs-OBbhP3XW_Uh149msDmGKIgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947854224415-p7gc56bfmc39ehah3pp8joe6nrmcci3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947854224415:android:e20699cfdcebf52672b92a",
+        "android_client_info": {
+          "package_name": "com.map_app_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947854224415-p7gc56bfmc39ehah3pp8joe6nrmcci3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVb-QW-Hs-OBbhP3XW_Uh149msDmGKIgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947854224415-p7gc56bfmc39ehah3pp8joe6nrmcci3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
